@@ -1,0 +1,6 @@
+owner=400820333948567552
+prefix=*
+game=3ZM
+stayinchannel=true
+songinstatus=false
+token=NTkwNTkzOTQwMjE5MjMyMjU2.XQkgOw.TcRnjiri-8SUgIl5Bt4E6jN1TwA
